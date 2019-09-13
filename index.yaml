@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  spring-boot-web-jsp:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-09-13T09:46:55.702103+06:30"
+    description: A Helm chart for Kubernetes
+    digest: 93bb8feef0f34c708999bafa84edfaba2878e581b984e51e5f76ad2a59190b3f
+    name: spring-boot-web-jsp
+    urls:
+    - https://github.com/susuhlaing-dmm/my-helm-repo.git/spring-boot-web-jsp-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-09-13T09:46:55.701597+06:30"
